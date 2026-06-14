@@ -15,7 +15,7 @@ int BuyOrder::getSharesCount()
     return shares_count_;
 }
 
-/*int BuyOrder::getSharePrice() 
+int BuyOrder::getSharePrice() 
 {
     return share_price_;
 }
@@ -23,4 +23,4 @@ int BuyOrder::getSharesCount()
 int BuyOrder::getOrderId()
 {
     return order_id_;
-}*/
+}
